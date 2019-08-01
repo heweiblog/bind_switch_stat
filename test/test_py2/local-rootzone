@@ -1,0 +1,8 @@
+
+zone "." IN {
+	type static-stub;
+	server-address {
+		192.168.6.172;
+		192.168.6.171;
+	};
+};

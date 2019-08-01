@@ -1,0 +1,61 @@
+2019-07-01 17:40:41,840 - __main__ - INFO - Start print log
+2019-07-01 17:40:41,841 - __main__ - WARNING - Something maybe fail.
+2019-07-01 17:40:41,841 - __main__ - INFO - Finish
+2019-07-01 17:41:14,567 - __main__ - INFO - Start print log
+2019-07-01 17:41:14,567 - __main__ - WARNING - Something maybe fail.
+2019-07-01 17:41:14,567 - __main__ - INFO - Finish
+2019-07-01 17:42:54,750 - __main__ - INFO - Start print log
+2019-07-01 17:42:54,750 - __main__ - WARNING - Something maybe fail.
+2019-07-01 17:42:54,750 - __main__ - ERROR - Something maybe error.
+2019-07-01 17:42:54,751 - __main__ - INFO - Finish
+2019-07-03 10:13:14,687 - __main__ - INFO - Start print log
+2019-07-03 10:13:14,687 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:13:14,687 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:13:37,551 - __main__ - INFO - Start print log
+2019-07-03 10:13:37,551 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:13:37,551 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:13:52,024 - __main__ - INFO - Start print log
+2019-07-03 10:13:52,024 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:13:52,024 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:14:17,838 - __main__ - INFO - Start print log
+2019-07-03 10:14:17,838 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:14:17,838 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:14:57,982 - __main__ - INFO - Start print log
+2019-07-03 10:14:57,982 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:14:57,982 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:15:07,327 - __main__ - INFO - Start print log
+2019-07-03 10:15:07,327 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:15:07,327 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:15:17,654 - __main__ - INFO - Start print log
+2019-07-03 10:15:17,654 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:15:17,654 - __main__ - ERROR - Something maybe error.
+2019-07-03 10:15:17,654 - __main__ - INFO - 3
+2019-07-03 10:15:40,617 - __main__ - INFO - Start print log
+2019-07-03 10:15:40,618 - __main__ - WARNING - Something maybe fail.
+2019-07-03 10:15:40,618 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:54:24,551 - __main__ - INFO - Start print log
+2019-07-15 09:54:24,551 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:54:24,551 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:54:24,551 - __main__ - ERROR - open file error name 'r' is not defined
+2019-07-15 09:54:53,088 - __main__ - INFO - Start print log
+2019-07-15 09:54:53,088 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:54:53,088 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:54:53,088 - __main__ - ERROR - open file error [Errno 2] No such file or directory: 'dsgfg'
+2019-07-15 09:55:19,625 - __main__ - INFO - Start print log
+2019-07-15 09:55:19,625 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:55:19,625 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:55:31,648 - __main__ - INFO - Start print log
+2019-07-15 09:55:31,648 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:55:31,648 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:55:41,879 - __main__ - INFO - Start print log
+2019-07-15 09:55:41,879 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:55:41,879 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:55:41,879 - __main__ - ERROR - open file error [Errno 2] No such file or directory: 'dsgfg'
+2019-07-15 09:55:55,866 - __main__ - INFO - Start print log
+2019-07-15 09:55:55,866 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:55:55,866 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:55:55,866 - __main__ - ERROR - open file error [Errno 2] No such file or directory: 'dsgfg'
+2019-07-15 09:56:08,942 - __main__ - INFO - Start print log
+2019-07-15 09:56:08,942 - __main__ - WARNING - Something maybe fail.
+2019-07-15 09:56:08,942 - __main__ - ERROR - Something maybe error.
+2019-07-15 09:56:08,942 - __main__ - ERROR - open file error [Errno 2] No such file or directory: 'dsgfg'

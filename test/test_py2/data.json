@@ -1,0 +1,101 @@
+{
+    "ADB-stats": {
+        "Address-hash-table-size": 1021,
+        "Addresses-in-hash-table": 1,
+        "Name-hash-table-size": 1021,
+        "Names-in-hash-table": 1
+    },
+    "Cache-DB-RRsets": {
+        "A": 1
+    },
+    "Cache-Statistics": {
+        "cache-database-hash-buckets": 64,
+        "cache-database-nodes": 0,
+        "cache-heap-highest-memory-in-use": 1024,
+        "cache-heap-memory-in-use": 1024,
+        "cache-heap-memory-total": 262144,
+        "cache-hits": 0,
+        "cache-hits--from-query-": 0,
+        "cache-misses": 0,
+        "cache-misses--from-query-": 0,
+        "cache-records-deleted-due-to-TTL-expiration": 0,
+        "cache-records-deleted-due-to-memory-exhaustion": 0,
+        "cache-tree-highest-memory-in-use": 29496,
+        "cache-tree-memory-in-use": 29496,
+        "cache-tree-memory-total": 287400
+    },
+    "Incoming-Queries": {
+        "A": 9,
+        "AAAA": 2,
+        "ANY": 4
+    },
+    "Incoming-Requests": {
+        "QUERY": 15
+    },
+    "Name-Server-Statistics": {
+        "COOKIE---client-only": 11,
+        "COOKIE---match": 4,
+        "COOKIE-option-received": 15,
+        "IPv4-requests-received": 15,
+        "UDP-queries-received": 15,
+        "queries-resulted-in-NXDOMAIN": 1,
+        "queries-resulted-in-authoritative-answer": 2,
+        "queries-resulted-in-non-authoritative-answer": 13,
+        "queries-resulted-in-nxrrset": 1,
+        "queries-resulted-in-referral-answer": 13,
+        "requests-with-EDNS-0--received": 15,
+        "responses-sent": 15,
+        "responses-with-EDNS-0--sent": 15
+    },
+    "Outgoing-Queries": {
+        "AAAA": 110,
+        "DNSKEY": 28,
+        "NS": 1,
+        "NULL": 1
+    },
+    "Outgoing-Rcodes": {
+        "NOERROR": 14,
+        "NXDOMAIN": 1
+    },
+    "Per-Zone-Query-Statistics": {
+        "UDP-queries-received": 15,
+        "queries-resulted-in-NXDOMAIN": 1,
+        "queries-resulted-in-authoritative-answer": 2,
+        "queries-resulted-in-non-authoritative-answer": 13,
+        "queries-resulted-in-nxrrset": 1,
+        "queries-resulted-in-referral-answer": 13
+    },
+    "Resolver-Statistics": {
+        "COOKIE-client-ok": 30,
+        "COOKIE-replies-received": 30,
+        "COOKIE-send-with-client-cookie-only": 29,
+        "COOKIE-sent-with-client-and-server-cookie": 111,
+        "DNSSEC-validation-attempted": 1,
+        "DNSSEC-validation-failed": 1,
+        "IPv4-queries-sent": 140,
+        "IPv4-responses-received": 30,
+        "IPv6-NS-address-fetch-failed": 22,
+        "IPv6-NS-address-fetches": 22,
+        "bucket-size": 523,
+        "lame-delegations-received": 21,
+        "queries-with-RTT---10ms": 30,
+        "query-retries": 88,
+        "query-timeouts": 152
+    },
+    "Socket-I-O-Statistics": {
+        "Raw-sockets-active": 1,
+        "Raw-sockets-opened": 1,
+        "TCP-IPv4-connections-accepted": 5,
+        "TCP-IPv4-sockets-active": 4,
+        "TCP-IPv4-sockets-closed": 4,
+        "TCP-IPv4-sockets-opened": 3,
+        "TCP-IPv6-sockets-active": 2,
+        "TCP-IPv6-sockets-opened": 2,
+        "UDP-IPv4-connections-established": 140,
+        "UDP-IPv4-sockets-active": 6,
+        "UDP-IPv4-sockets-closed": 140,
+        "UDP-IPv4-sockets-opened": 146,
+        "UDP-IPv6-sockets-active": 3,
+        "UDP-IPv6-sockets-opened": 3
+    }
+}

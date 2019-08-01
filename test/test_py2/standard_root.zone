@@ -1,0 +1,9 @@
+zone "." IN {
+	type slave;
+	masters {
+		192.168.16.101;
+		192.168.16.104;
+	};
+	file "data.json";
+};
+
